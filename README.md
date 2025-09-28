@@ -1,5 +1,5 @@
 
-# **Credit Card Fraud Detection**
+# **Credit Risk Case Study Using Exploratory Data Analysis**
 
 ## **Project Overview**
 This project predicts fraudulent credit card transactions using machine learning models. The dataset, taken from Kaggle, contains 2,84,807 transactions, with only 492 fraudulent ones, which makes this a **highly imbalanced dataset**. The goal is to use machine learning techniques to detect fraudulent transactions effectively and efficiently.
